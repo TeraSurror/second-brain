@@ -1,0 +1,1 @@
+For this weeks reading, I chose to watch the Udacity videos 12 to 19. Watching the eye video reminded me of a biology lecture back in school, which talked about how the image is inverted in our eye and how the brain signals re-inverts the image so that we can see properly. I believe the professor also talked about this in the lectures. #reading #projections

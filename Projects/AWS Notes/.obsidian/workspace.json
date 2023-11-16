@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "446dd89afcaa52d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a03e253ea7e16d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ee67b1463e11c4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EC2/Elastic Network IP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c3b17306d4720a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2eb7343b2bf0e48a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e49f422b3a08300d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ad509fdba5fa0a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f568a7e0fc0d0d0e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "edc74f02e648b4b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a92ff64398ce331",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0733565654a8c4ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EC2/Elastic Network IP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9279da78f6ca31e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EC2/Elastic Network IP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56d118e378b0424a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "93933c9b20968e18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EC2/Elastic Network IP.md"
+              }
+            }
+          },
+          {
+            "id": "cf9b8c34d170f468",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e49f422b3a08300d",
+  "lastOpenFiles": [
+    "EC2/EC2 Overview.md",
+    "EC2/Elastic Network IP.md",
+    "EC2/Placement Groups.md",
+    "EC2/Public vs Private vs Elastic IP.md",
+    "Index of Topics.md",
+    "EC2/Security Groups.md",
+    "EC2/EC2 Instance Types.md",
+    "EC2/User Data for bootstrapping EC2 instances.md",
+    "EC2/EC2 Sizing and configuration options.md",
+    "EC2",
+    "IAM/IAM Overview.md",
+    "IAM/IAM Policy Structure.md",
+    "IAM/IAM Security Tools.md",
+    "IAM/IAM Roles.md",
+    "CLI/AWS CLI Overview.md",
+    "CLI",
+    "IAM/Protecing Users.md",
+    "IAM/IAM users groups and permissions.md",
+    "AWS Global Infra/Overview.md",
+    "AWS Global Infra/AWS Availability Zones.md",
+    "IAM",
+    "AWS Global Infra/AWS Points of presence.md",
+    "AWS Global Infra/AWS Regions.md",
+    "AWS Global Infra",
+    "2023-08-28.md",
+    "2023-08-27.md"
+  ]
+}

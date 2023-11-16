@@ -1,0 +1,7 @@
+- Amazon Machine Instance
+- It is a customization of an EC2 instance. Custom Software, OS monitoring, etc
+- Faster boot time as software does not have to be configured
+- Types:
+	- Amazon provided
+	- Custom
+	- AMIs from market (made by third party)

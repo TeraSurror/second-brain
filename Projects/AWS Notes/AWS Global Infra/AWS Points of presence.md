@@ -1,0 +1,2 @@
+- 400+ points of presence
+- Content is delivered to users with lower latency

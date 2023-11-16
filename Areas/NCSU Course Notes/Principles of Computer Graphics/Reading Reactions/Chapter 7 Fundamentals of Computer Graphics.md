@@ -1,0 +1,3 @@
+36.2
+
+While reading chapter 7 of the Fundamentals of Computer Graphics I was struck with how similar some of the transformations were to the operations performed in the pre-processing of images in Computer Vision. The view-port transform has similarities to the "dimensionality reduction" performed in the matrices used to represent an image. Both operations essentially "extract" important pieces of information from the input, which can then make further calculations easy.  I found the matrix calculations a little difficult to understand. The equations mentioned talk about points in 3D space (x, y, z coordinates). I wonder how these equations can be used to incorporate color (r, g, b, a values) and how they can be used to deal with intersecting objects.
