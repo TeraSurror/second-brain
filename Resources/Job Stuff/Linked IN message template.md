@@ -14,3 +14,6 @@ Hi Nagendra,
 I am a Fall 2023 MCS Student at NCSU. I am actively looking for summer internships and found this opening at Rippling - https://ats.rippling.com/rippling/jobs/eed09f08-a8b2-4d7c-8f8f-16402f3f4379
 Can you please help me with a referral for this opening?
 My resume - https://bit.ly/488iMfS
+
+
+Hi Alisha, I am a Master of Computer Science student at NC State looking for SDE intern roles at Intuit. If possible, could you take a look at my resume or refer me? Any guidance would help. Thanks!
