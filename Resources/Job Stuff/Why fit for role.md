@@ -9,3 +9,5 @@ Furthermore, my involvement in projects such as the deep fake detection algorith
 In addition to technical skills, I am known for my positive nature and my ability to be a team player. My leadership roles in Occulus and as a teaching assistant reflect my ability to work effectively with peers, managers, and teams.
 
 Overall, I am eager to leverage my technical expertise, passion for innovation, and commitment to excellence in order to contribute to Google's continued success in shaping the future of technology. I am excited about the opportunity to be part of a team that works on projects with such universal appeal and societal impact.
+
+
