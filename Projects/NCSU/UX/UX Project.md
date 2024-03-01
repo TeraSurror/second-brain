@@ -1,3 +1,6 @@
+
+Link to all docs: https://drive.google.com/drive/u/2/folders/1EtHpUsdJ6WLmQ601xpalFQ91H57fqDoM
+
 ### Research
 1. Create a long term map
 2. Find out the challenges
