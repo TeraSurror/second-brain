@@ -11,6 +11,7 @@ Build project: `cargo build`
 Run project: `cargo run`
 Build project without exe: `cargo check`
 Build for release: `cargo build --release`
+Install binaries: `cargo install`
 
 ### Variables and Mutability
 
