@@ -1,4 +1,23 @@
 
+#### Add to Hashmap : `hash_map.insert(key, value)`
+#### Update Hashmap : 
+```rust
+let map = HashMap::new();
+let some_key = "key";  
+let some_value = 23;
+
+map.insert(some_key, some_value);
+
+let some_key = "key";  
+let value_from_map = map.entry(some_key);
+// if value is not in key do the following
+let value_from_map = map.entry("random_value").or_insert(234);
+value_from_map += 1 // updates value
+
+```
+
+
+
 ```rust
 // Creating a HashMap
 use std::collections::HashMap;

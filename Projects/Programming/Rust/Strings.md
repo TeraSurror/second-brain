@@ -21,3 +21,15 @@ let s3 = String::from("toe");
 let s = format!("{s1}-{s2}-{s3}");
 
 ```
+
+### Recipies
+#### Iterate over the characters of a string
+```rust
+fn main() {
+	let sentence = String::from("A quick brown fox jumps over a ledge");
+	for char in sentence.char() {
+		println!("{char}");
+	}
+}
+```
+

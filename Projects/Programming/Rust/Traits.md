@@ -46,6 +46,7 @@ pub trait Summary{
 Traits as Parameters
 ```rust
 // Here item can be any type that implements the Summary trait
+// Note: the & means borrowed value, you can do without it
 pub fn notify(item: &impl Summary) {
 	println!("Breaking new! {item.summarize()}");
 }
