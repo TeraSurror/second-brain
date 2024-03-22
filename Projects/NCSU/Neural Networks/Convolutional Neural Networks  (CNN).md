@@ -29,9 +29,6 @@ Example of max pooling
 ![[max pooling.png]]
 
 
-
-
-
-
-
-
+#### CNN - Image Recognition Datasets
+- CIFAR-10 / 100
+- ImageNet
