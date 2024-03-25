@@ -19,4 +19,3 @@ Table List
 15. person_1
 16. person_2
 17. debitcard_1
-18.  
