@@ -30,3 +30,8 @@
 17. `whatis`: gives a brief desc of a command. usage: `whatis <command-name>`
 18. `alias`: gives an alias to a command. usage: `alias foobar='ls -la'`
 19. `ps`: determine the shell type
+20. `tldr`: `man` with shorter descriptions
+21. `apropos`: gives a list of commands based on a desciption. Usage: `apropos "which directory"`
+22. `heir`: description of file system hierarchy
+23. 
+
